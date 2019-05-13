@@ -1,2 +1,0 @@
-# ReactNotebookApp
-Created with CodeSandbox
